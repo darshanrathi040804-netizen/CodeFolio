@@ -364,5 +364,3 @@ Here are the key REST endpoints exposed by the CodeFolio API:
 | **GET** | `/api/portfolios` | Get list of all saved portfolios for user | Yes (Bearer JWT) |
 | **GET** | `/api/portfolios/{id}` | Retrieve specific portfolio | Yes (Bearer JWT) |
 | **DELETE**| `/api/portfolios/{id}` | Delete a portfolio | Yes (Bearer JWT) |
-#   C o d e F o l i o  
- 
